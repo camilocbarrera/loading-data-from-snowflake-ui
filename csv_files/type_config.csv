@@ -1,0 +1,252 @@
+ID,TYPE_CONFIG
+eb28c0c5b3309a618d10a1847519d1a6,"{
+  ""new_drop_down"": true,
+  ""options"": [
+    {
+      ""color"": ""#f7bdbd"",
+      ""id"": ""12d3e5d8-3be7-41e9-8bbf-adf98cda1691"",
+      ""name"": ""CORPORATE"",
+      ""orderindex"": 0
+    },
+    {
+      ""color"": ""#9affb8"",
+      ""id"": ""6baa9db2-02b4-4206-9bf1-4fe82d44d4b8"",
+      ""name"": ""OPERATIONS"",
+      ""orderindex"": 1
+    },
+    {
+      ""color"": ""#fbbe85"",
+      ""id"": ""1988d68e-e654-4392-a51b-08d3e72956ea"",
+      ""name"": ""FINANCE & ADMIN"",
+      ""orderindex"": 2
+    },
+    {
+      ""color"": ""#9fffc6"",
+      ""id"": ""d348e81f-27ef-4718-b3e7-edccb3e77d12"",
+      ""name"": ""MARKETING"",
+      ""orderindex"": 3
+    },
+    {
+      ""color"": ""#77f1d9"",
+      ""id"": ""5630929d-8eff-4d5b-a550-bb7a3941df89"",
+      ""name"": ""SALES"",
+      ""orderindex"": 4
+    },
+    {
+      ""color"": ""#b1a2a2"",
+      ""id"": ""7d382ff7-fbf9-4e8e-bdf4-2b3711bdd617"",
+      ""name"": ""CUSTOMER SUCCESS"",
+      ""orderindex"": 5
+    },
+    {
+      ""color"": ""#f994b7"",
+      ""id"": ""a9a59367-f2ef-40c1-bec3-2c05e8186fe6"",
+      ""name"": ""PRODUCCIÓN"",
+      ""orderindex"": 6
+    },
+    {
+      ""color"": ""#c9aad6"",
+      ""id"": ""9598e213-ce39-432f-b27c-68a2a488c3ef"",
+      ""name"": ""PRODUCTO"",
+      ""orderindex"": 7
+    },
+    {
+      ""color"": ""#cfc0f9"",
+      ""id"": ""28437fd6-064f-42b0-b565-d79daae93f79"",
+      ""name"": ""IT"",
+      ""orderindex"": 8
+    }
+  ]
+}"
+b4b07ced22df59484c337411da462e0f,"{
+  ""default"": 0,
+  ""new_drop_down"": true,
+  ""options"": [
+    {
+      ""color"": ""#EA80FC"",
+      ""id"": ""0dc1054f-650a-4260-be48-e825672b6acb"",
+      ""name"": ""1. INBOX"",
+      ""orderindex"": 0
+    },
+    {
+      ""color"": ""#E65100"",
+      ""id"": ""65a9c1d7-9c10-4791-bbb6-57e425fd559f"",
+      ""name"": ""2. DOCUMENTACIÓN"",
+      ""orderindex"": 1
+    },
+    {
+      ""color"": ""#ff7800"",
+      ""id"": ""b4762ed7-4069-4121-a83a-904dc58004af"",
+      ""name"": ""3. FOLLOW UP DOCUMENTACIÓN"",
+      ""orderindex"": 2
+    },
+    {
+      ""color"": ""#f9d900"",
+      ""id"": ""8580be58-3733-44bf-a51b-ab6e7a291335"",
+      ""name"": ""4. PREPARADOS"",
+      ""orderindex"": 3
+    },
+    {
+      ""color"": ""#3082B7"",
+      ""id"": ""01edba1d-d098-4168-8e76-6221a8bf7c0a"",
+      ""name"": ""5. PRODUCCIÓN 1"",
+      ""orderindex"": 4
+    },
+    {
+      ""color"": ""#0231E8"",
+      ""id"": ""118940d4-0ed8-4d71-86c3-665b7e56758e"",
+      ""name"": ""6. FEEDBACK CLIENTE 1"",
+      ""orderindex"": 5
+    },
+    {
+      ""color"": ""#0231E8"",
+      ""id"": ""ac45695d-68fd-41e4-9c54-d4001d2a72a9"",
+      ""name"": ""7. PRODUCCIÓN 2"",
+      ""orderindex"": 6
+    },
+    {
+      ""color"": ""#1bbc9c"",
+      ""id"": ""438f0006-49ea-4f10-9d26-c40261821a82"",
+      ""name"": ""8. FEEBDACK CLIENTE 2"",
+      ""orderindex"": 7
+    },
+    {
+      ""color"": ""#2ecd6f"",
+      ""id"": ""be1b001e-18b5-43dc-b4d5-0249cbde4b6f"",
+      ""name"": ""9. PRODUCCIÓN 3"",
+      ""orderindex"": 8
+    },
+    {
+      ""color"": ""#02BCD4"",
+      ""id"": ""8cc1b5b3-f7a2-4dd8-af93-662e1625e48e"",
+      ""name"": ""10. CREACIÓN MEMORIA 1"",
+      ""orderindex"": 9
+    },
+    {
+      ""color"": ""#04A9F4"",
+      ""id"": ""2504297d-1a71-40d5-8700-42e75f0e50b6"",
+      ""name"": ""11. PRESENTACIÓN MEMORIA 1"",
+      ""orderindex"": 10
+    },
+    {
+      ""color"": ""#b5bcc2"",
+      ""id"": ""92a5dc67-db30-486b-8452-0eab3c6996d3"",
+      ""name"": ""12. ESPERANDO SIGUIENTE FASE"",
+      ""orderindex"": 11
+    },
+    {
+      ""color"": ""#3082B7"",
+      ""id"": ""f8436628-9d45-47d3-a6f2-da4dc774a99a"",
+      ""name"": ""13. PRODUCCIÓN 4"",
+      ""orderindex"": 12
+    },
+    {
+      ""color"": ""#132670"",
+      ""id"": ""82425a97-cb5a-495f-b9d6-fe21e04c0e6e"",
+      ""name"": ""14. FEEBDACK CLIENTE 3"",
+      ""orderindex"": 13
+    },
+    {
+      ""color"": ""#909ac2"",
+      ""id"": ""56a9a16c-71b2-4065-9ba9-bdadd0417c4c"",
+      ""name"": ""15. PRODUCCIÓN 5"",
+      ""orderindex"": 14
+    },
+    {
+      ""color"": ""#b5bcc2"",
+      ""id"": ""738b9349-3776-4b7e-afa0-707a15b902e0"",
+      ""name"": ""16. ESPERANDO FIN SUBVENCIÓN"",
+      ""orderindex"": 15
+    },
+    {
+      ""color"": ""#AF7E2E"",
+      ""id"": ""d6841f7c-c4c6-4979-95b2-de9df705e6d7"",
+      ""name"": ""17. CREACIÓN MEMORIA 2"",
+      ""orderindex"": 16
+    },
+    {
+      ""color"": ""#9f6609"",
+      ""id"": ""0318cf3c-592e-4bbc-8d6f-97e734e59e9e"",
+      ""name"": ""18. PRESENTACIÓN MEMORIA 2"",
+      ""orderindex"": 17
+    },
+    {
+      ""color"": ""#b5bcc2"",
+      ""id"": ""79f5c982-9447-463a-80ae-0877283bdb8d"",
+      ""name"": ""19. SEGUIMIENTO (POST PRODUCCIÓN)"",
+      ""orderindex"": 18
+    },
+    {
+      ""color"": ""#8cf5b7"",
+      ""id"": ""f27e168e-fede-49ba-acb9-15cdd19c2699"",
+      ""name"": ""20. FINALIZADO"",
+      ""orderindex"": 19
+    },
+    {
+      ""color"": ""#667684"",
+      ""id"": ""aac454dd-cb30-412e-8d79-fe63559929c7"",
+      ""name"": ""21. CANCELADO"",
+      ""orderindex"": 20
+    }
+  ],
+  ""placeholder"": null
+}"
+e17d947ce16459e22f835dce77f92ff4,"{
+  ""new_drop_down"": true,
+  ""options"": [
+    {
+      ""color"": ""#f7bdbd"",
+      ""id"": ""12d3e5d8-3be7-41e9-8bbf-adf98cda1691"",
+      ""name"": ""CORPORATE"",
+      ""orderindex"": 0
+    },
+    {
+      ""color"": ""#9affb8"",
+      ""id"": ""6baa9db2-02b4-4206-9bf1-4fe82d44d4b8"",
+      ""name"": ""OPERATIONS"",
+      ""orderindex"": 1
+    },
+    {
+      ""color"": ""#fbbe85"",
+      ""id"": ""1988d68e-e654-4392-a51b-08d3e72956ea"",
+      ""name"": ""FINANCE & ADMIN"",
+      ""orderindex"": 2
+    },
+    {
+      ""color"": ""#9fffc6"",
+      ""id"": ""d348e81f-27ef-4718-b3e7-edccb3e77d12"",
+      ""name"": ""MARKETING"",
+      ""orderindex"": 3
+    },
+    {
+      ""color"": ""#77f1d9"",
+      ""id"": ""5630929d-8eff-4d5b-a550-bb7a3941df89"",
+      ""name"": ""SALES"",
+      ""orderindex"": 4
+    },
+    {
+      ""color"": ""#b1a2a2"",
+      ""id"": ""7d382ff7-fbf9-4e8e-bdf4-2b3711bdd617"",
+      ""name"": ""CUSTOMER SUCCESS"",
+      ""orderindex"": 5
+    },
+    {
+      ""color"": ""#f994b7"",
+      ""id"": ""a9a59367-f2ef-40c1-bec3-2c05e8186fe6"",
+      ""name"": ""PRODUCCIÓN"",
+      ""orderindex"": 6
+    },
+    {
+      ""color"": ""#c9aad6"",
+      ""id"": ""9598e213-ce39-432f-b27c-68a2a488c3ef"",
+      ""name"": ""PRODUCTO"",
+      ""orderindex"": 7
+    },
+    {
+      ""color"": ""#cfc0f9"",
+      ""id"": ""28437fd6-064f-42b0-b565-d79daae93f79"",
+      ""name"": ""IT"",
+      ""orderindex"": 8
+    }
+  ]
+}"
