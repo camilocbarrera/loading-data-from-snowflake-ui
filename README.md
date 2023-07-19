@@ -13,7 +13,7 @@ Este tutorial tiene como objetivo demostrar de manera gráfica cómo cargar dato
 
 
 
-[![Alt text](https://github.com/camilocbarrera/loading-data-from-snowflake-ui/assets/85809276/d0094466-e5bf-4e15-9250-2f56cb1ca0d4)](https://www.youtube.com/watch?v=zuPZTPXglJ8)
+[![Alt text](https://github-production-user-asset-6210df.s3.amazonaws.com/85809276/254663682-d0094466-e5bf-4e15-9250-2f56cb1ca0d4.png)](https://www.youtube.com/watch?v=zuPZTPXglJ8)
 
 
 
