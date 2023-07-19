@@ -4,15 +4,17 @@ Este tutorial tiene como objetivo demostrar de manera gráfica cómo cargar dato
 
 <!-- TOC -->
 * [¿Cómo cargar datos desde Snowflake UI?](#cómo-cargar-datos-desde-snowflake-ui)
-  * [Tutorial de carga de datos en Snowflake](#tutorial-de-carga-de-datos-en-snowflake)
+  * [Tutorial de carga de datos en Snowflake ( Click para ver el video)](#tutorial-de-carga-de-datos-en-snowflake--click-para-ver-el-video)
   * [Muestra de archivos CSV](#muestra-de-archivos-csv)
   * [Creación de Objetos](#creación-de-objetos)
 <!-- TOC -->
 
-## Tutorial de carga de datos en Snowflake
+## Tutorial de carga de datos en Snowflake ( Click para ver el video)
 
 
-[![Tutorial de carga de datos en Snowflake](https://youtu.be/zuPZTPXglJ8)](https://youtu.be/zuPZTPXglJ8)
+[![Tutorial de carga de datos en Snowflake](https://github.com/camilocbarrera/loading-data-from-snowflake-ui/assets/85809276/d0094466-e5bf-4e15-9250-2f56cb1ca0d4)](https://youtu.be/zuPZTPXglJ8)
+
+
 
 
 ## Muestra de archivos CSV
