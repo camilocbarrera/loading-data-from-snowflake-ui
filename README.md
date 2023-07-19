@@ -12,7 +12,8 @@ Este tutorial tiene como objetivo demostrar de manera gráfica cómo cargar dato
 ## Tutorial de carga de datos en Snowflake ( Click para ver el video)
 
 
-[![Tutorial de carga de datos en Snowflake](https://github.com/camilocbarrera/loading-data-from-snowflake-ui/assets/85809276/d0094466-e5bf-4e15-9250-2f56cb1ca0d4)](https://youtu.be/zuPZTPXglJ8)
+
+[![Alt text](https://github.com/camilocbarrera/loading-data-from-snowflake-ui/assets/85809276/d0094466-e5bf-4e15-9250-2f56cb1ca0d4)](https://www.youtube.com/watch?v=zuPZTPXglJ8)
 
 
 
